@@ -89,12 +89,13 @@ Dự án sử dụng các cấu trúc dữ liệu và thuật toán như:
 ## Hướng dẫn cài đặt
 1. Clone repository:
    ```bash
-   git clone <repository-link>
+   git clone git@github.com:Nnguyen-dev2805/DSA_Dictionary_English_Vietnamese_NN.git
+   ```
 - Mở dự án trong IDE hỗ trợ C++ (Visual Studio, Code::Blocks, v.v.).
 - Biên dịch và chạy file `main.cpp`.
 
 ## Video demo
-
+Xem video demo tại đây: [YouTube Demo](https://www.youtube.com/watch?v=dhYQ9jI3_4Q)
 
 ## Đóng góp
 Nếu bạn muốn đóng góp cho dự án, vui lòng tạo một pull request hoặc mở một issue trên GitHub.
