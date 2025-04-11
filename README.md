@@ -102,5 +102,4 @@ Nếu bạn muốn đóng góp cho dự án, vui lòng tạo một pull request 
 
 ## Tác giả
 Mã số sinh viên: 23110273
-
 Họ và tên: Trương Nhất Nguyên
