@@ -101,5 +101,5 @@ Xem video demo tại đây: [YouTube Demo](https://www.youtube.com/watch?v=dhYQ9
 Nếu bạn muốn đóng góp cho dự án, vui lòng tạo một pull request hoặc mở một issue trên GitHub.
 
 ## Tác giả
-Mã số sinh viên: 23110273
+Mã số sinh viên: 23110273     
 Họ và tên: Trương Nhất Nguyên
