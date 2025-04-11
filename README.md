@@ -1,5 +1,16 @@
 # TỪ ĐIỂN ANH-VIỆT VỚI TÍNH NĂNG AUTOCOMPLETE VÀ AUTOCORRECT
 
+## Mục lục
+1. [Mô tả dự án](#mô-tả-dự-án)
+2. [Tính năng chính](#tính-năng-chính)
+3. [Cấu trúc dự án](#cấu-trúc-dự-án)
+4. [Hướng dẫn sử dụng](#hướng-dẫn-sử-dụng)
+5. [Công nghệ sử dụng](#công-nghệ-sử-dụng)
+6. [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
+7. [Video demo](#video-demo)
+8. [Đóng góp](#đóng-góp)
+9. [Tác giả](#tác-giả)
+
 ## Mô tả dự án
 Dự án này là một ứng dụng từ điển Anh-Việt được xây dựng bằng ngôn ngữ lập trình C++. Ứng dụng cung cấp các tính năng như tìm kiếm từ, tự động hoàn thành (autocomplete), tự động sửa lỗi (autocorrect), và quản lý danh sách từ yêu thích (bookmarks). 
 
